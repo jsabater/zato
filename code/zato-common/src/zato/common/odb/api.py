@@ -75,7 +75,7 @@ DeployedServiceDelete = DeployedServiceTable.delete
 # ################################################################################################################################
 # ################################################################################################################################
 
-# Based on https://bitbucket.org/zzzeek/sqlalchemy/wiki/UsageRecipes/WriteableTuple
+# Based on https://github.com/sqlalchemy/sqlalchemy/wiki/WriteableTuple
 
 class WritableKeyedTuple(object):
 
